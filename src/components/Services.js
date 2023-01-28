@@ -31,7 +31,7 @@ const service = [
     name: 'Data Analytics and Reporting',
     description: '',
     link: 'Learn more',
-    href: 'https://nigel1513-streamlit-main-yc512z.streamlit.app/pycaret'
+    href: 'https://nigel1513-streamlit-main-yc512z.streamlit.app/Pycaret'
   },
 ]
 
